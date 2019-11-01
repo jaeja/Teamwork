@@ -1,0 +1,25 @@
+{
+  "name": "Teamwork",
+  "version": "1.0.0",
+  "description": "Teamwork is an internal social network for employees of an organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeja/Teamwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaeja/Teamwork/issues"
+  },
+  "homepage": "https://github.com/jaeja/Teamwork#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
